@@ -1,5 +1,5 @@
 
-
+Cancel changes
 <p align="center">
 <img src = "https://media3.giphy.com/media/RIPsiIq4XJtzAhxCNY/giphy.gif?cid=790b7611ea4323da93b5f6978cce9cc5308697e510010099&rid=giphy.gif&ct=g" width="250" height="250">
 </p>
@@ -8,9 +8,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Systems engineering at Universidad de Medellín.
-- 🌱 &nbsp; Learning more about Web development, software engineering.
+- 🌱 &nbsp; Learning more about Web development, software engineering, data science.
 - ✍️ &nbsp; Music, videogames, anime, and  movies as hobbies.
 
 <h3> 🛠 &nbsp;Learning...</h3>
