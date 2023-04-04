@@ -1,5 +1,4 @@
 
-Cancel changes
 <p align="center">
 <img src = "https://media3.giphy.com/media/RIPsiIq4XJtzAhxCNY/giphy.gif?cid=790b7611ea4323da93b5f6978cce9cc5308697e510010099&rid=giphy.gif&ct=g" width="250" height="250">
 </p>
