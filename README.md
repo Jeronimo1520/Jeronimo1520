@@ -38,6 +38,7 @@
 <p align="center">
 <a href="https://www.instagram.com/jerobedoya1520/?hl=es"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jerobedoya1520_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jeronimobedoya1520@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeronimobedoya1520@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jer%C3%B3nimo-bedoya-bedoya-538318267/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
