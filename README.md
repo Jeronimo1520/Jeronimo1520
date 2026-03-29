@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Systems engineering at Universidad de Medellín.
+- 🎓 &nbsp; Systems engineer from Universidad de Medellín.
 - 🌱 &nbsp; Learning more about software engineering, data science, ML and AI
 - ✍️ &nbsp; Music, videogames, anime, and  movies as hobbies.
 
